@@ -1,0 +1,20 @@
+https://www.jqueryscript.net/tags.php?/Form%20Validation/
+
+https://www.codexworld.com/post-get-json-data-from-php-script-jquery-ajax/
+
+
+store producer in mysql
+
+for create  store producer
+/
+create procedure test()
+select * from users
+
+
+
+
+for calling store producer
+
+call test();
+
+0688
